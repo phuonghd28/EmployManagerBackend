@@ -1,0 +1,14 @@
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\BaiThiEAD.dll.config
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\BaiThiEAD.dll
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\BaiThiEAD.pdb
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.dll
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.pdb
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\EntityFramework.dll
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\EntityFramework.SqlServer.dll
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\EntityFramework.xml
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\bin\EntityFramework.SqlServer.xml
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.csproj.CopyComplete
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.Migrations.InitDB.resources
+C:\Users\phuon\source\repos\BaiThiEAD\BaiThiEAD\obj\Debug\BaiThiEAD.csproj.GenerateResource.cache
